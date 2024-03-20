@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-*Website Link: Weatherapiii.netlify.com *
+*Website Link: Weatherapiiii.netlify.com *
 
 
 https://github.com/fahadak2001/WeatherAPI/assets/61794596/4a268580-5782-444d-bb1d-4ded6aae03ca
