@@ -1,0 +1,57 @@
+
+.mainClass{
+    background-image: url("./raining-night.gif");
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainClassDay{
+    background-image: url("./sunny.gif");
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainClassNight{
+    background-image: url("./night.gif");
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.getWeather{
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: aqua;
+    opacity: 60%;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+.getWeather1{
+    height: 30px;
+    border-radius: 20px;
+    background-color: aqua;
+    opacity: 60%;
+    color: black;
+    cursor: pointer;
+}
+
+.weather-data {
+    background-color: rgba(42, 155, 192);
+    opacity: 70%;  }
+  
